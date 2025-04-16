@@ -80,7 +80,7 @@ const ViewLogs = () => {
               fontSize: '1.5rem',
               fontWeight: '600'
             }}>
-              ประวัติการทำงาน Drone
+              ประวัติการบันทึกของ Drone
             </h2>
             <Button 
               variant="outline-light"
